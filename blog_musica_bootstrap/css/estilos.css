@@ -1,0 +1,23 @@
+body{
+  background-color: black;
+}
+#container{
+  max-width: 95%;
+  margin: 0 auto;
+  contain: content;
+}
+.logo-banner{
+  max-width: 200px;
+}
+.redes-sociales{
+  text-align: right;
+}
+/*Screen para dipositivos medios*/
+@media (max-width: 772px) {
+  .logo-img{
+    text-align: center;
+  }
+  .redes-sociales{
+    text-align: center;
+  }
+}

@@ -1,0 +1,38 @@
+body{
+  background-image: url(../img/curanto.jpg);
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: center top;
+  background-size: cover;
+  width: 100%;
+  height: 100%;
+}
+.contenedor{
+  background-color: #5a98f5;
+  opacity: 0.95;
+}
+#encabezado{
+  color: white;
+  border-right: solid 2px white;
+}
+.nombre{
+  text-align: left;
+}
+.slogan{
+  text-align: right;
+}
+.secciones{
+  border-top: solid 2px white;
+}
+#busqueda{
+  background-color: #b2ebfc;
+}
+.contenido{
+  background-color: #b2ebfc;
+}
+.comentarios{
+  border-top: solid 2px white;
+}
+.usuario{
+  background-color: #90d3ee;
+}
