@@ -1,0 +1,24 @@
+body{
+  background-image: url(../img/parallax1.jpg);
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: center top;
+  background-size: cover;
+  width: 100%;
+  height: 100%;
+}
+.imagen-banner{
+  padding: 30px;
+  float: left;
+  border-radius: 40px;
+}
+img{
+  border-radius: 10px:
+}
+h2{
+  text-shadow: 2px 2px  #ffffff;
+}
+#img-2{
+  padding: 10px;
+  border-radius: 20px;
+}
